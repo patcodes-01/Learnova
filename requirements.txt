@@ -1,0 +1,11 @@
+pytesseract
+opencv-python
+pdf2image
+Pillow
+rake-nltk
+spacy
+streamlit
+matplotlib
+sentence-transformers
+scikit-learn
+
